@@ -1,0 +1,13 @@
+{
+	"name": "propose",
+	"version": "2.0.0",
+	"description": "propose",
+	"repository": "",
+	"keywords": "",
+	"author": "lc",
+	"license": "ISC",
+	"dependencies": {
+		"ascii-table": "0.0.9",
+		"fibos.js": "0.3.1"
+	}
+}
